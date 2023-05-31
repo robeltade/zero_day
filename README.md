@@ -1,1 +1,1 @@
-zero day programming with alx
+zero day programming with alx course
